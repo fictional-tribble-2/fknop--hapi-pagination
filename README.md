@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/hapi-pagination.svg)](https://npmjs.org/package/hapi-pagination)
 [![Build Status](https://travis-ci.org/fknop/hapi-pagination.svg)](https://travis-ci.org/fknop/hapi-pagination)
-[![Coverage Status](https://coveralls.io/repos/fknop/hapi-pagination/badge.svg?branch=master&service=github)](https://coveralls.io/github/fknop/hapi-pagination?branch=master) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/fknop--hapi-pagination.svg)](https://www.staging.guardrails.io)
+[![Coverage Status](https://coveralls.io/repos/fknop/hapi-pagination/badge.svg?branch=master&service=github)](https://coveralls.io/github/fknop/hapi-pagination?branch=master) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/fknop--hapi-pagination.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/fknop--hapi-pagination.svg)](https://www.guardrails.io)
 
 
 Hapi plugin to handle 'custom' resources pagination in json only.
